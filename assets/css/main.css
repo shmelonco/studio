@@ -3043,6 +3043,7 @@ input, select, textarea {
 
 		table thead {
 			border-bottom: solid 2px;
+			text-align: left;
 		}
 
 		table tfoot {
@@ -3077,6 +3078,7 @@ input, select, textarea {
 
 	table tbody tr {
 		border-color: #eeeeee;
+		text-align: left;
 	}
 
 		table tbody tr:nth-child(2n + 1) {
@@ -3085,6 +3087,7 @@ input, select, textarea {
 
 	table th {
 		color: #212931;
+		text-align: left;
 	}
 
 	table thead {
